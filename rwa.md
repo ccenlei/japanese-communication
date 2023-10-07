@@ -2,6 +2,10 @@
 
 物理的な世界に存在する有形のtoken化を指し、chain上に持ち込まれます。また、デジタル証券がtoken化され、小売顧客に提供される、chain上の資本市場製品の発行が増加していることも含まれます。 たとえば、国債をchain上に持ってくるMakerDAOは、ユーザーに5%のドル預金金利収入をもたらすことができます。
 
+<div align="left">
+<img src=https://s3.amazonaws.com/assets.coingecko.com/app/public/ckeditor_assets/pictures/5864/content_COPY_PLACEHOLDER_%282%29.png width=90% />
+</div>
+
 ## 资産をblockchain上に登録する理由?
 * blockchainの台帳の公開性とblockの改ざん不能性を活かし、取引の信頼性を向上させ、詐欺リスクを低減します。
 * ミドルマンの排除で、伝統的な金融機関や仲介業者は不要です。取引の複雑性とコストを削減し、より多くの人が参加できるアクセス可能性を提供します。
