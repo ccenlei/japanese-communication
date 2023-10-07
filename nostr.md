@@ -1,6 +1,6 @@
 # Nostr紹介
 
-NostrはHTTP Protocolと同じレベルのものです。
+Nostr ProtocolはHTTP Protocolと同じレベルのものです。
 
 <div align="left">
 <img src=https://developer.qcloudimg.com/http-save/yehe-6087190/746788ffa459f7cf9ab166be8fb8d305.png width=100% />
