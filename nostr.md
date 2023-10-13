@@ -7,6 +7,7 @@ Nostr ProtocolはHTTP Protocolと同じレベルのものです。
 </div>
 
 [nostrページ1](https://nostr.band/)
+
 [nostrページ2](https://snort.social/)
 
 
