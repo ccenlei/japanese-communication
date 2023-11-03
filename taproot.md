@@ -24,4 +24,6 @@
 walletと呼びのアプリとchrome extensionがあります。例えば、Wallet of Satoshi。
 
 ## Taproot on Lighting 
+taprootプロトコルに基づく(もとづく)、最初のmeme token：nostrassertsのairdropは多くの注目を集めました。 
 
+[nostrassets](https://mainnet.nostrassets.com/#/account)
