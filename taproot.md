@@ -7,7 +7,7 @@
 ライトニングネットワーク（英: Lightning Network）は、Bitcoinのチェーン上に構築(こうちく)された2層(そう)ネットワーク、つまりBitcoinのL2です。これは、ビットコインの拡張(かくちょう)性や取引手数料の高さの問題を解決するためのものです。このネットワークは、nodeとchannelで支払いネットワークを構築しています。
 
 <div align="left">
-<img src=https://pic3.zhimg.com/v2-32155a16c4d90153c5a4b33108e1d456_r.jpg width=30% />
+<img src=https://pic3.zhimg.com/v2-32155a16c4d90153c5a4b33108e1d456_r.jpg width=50% />
 </div>
 
 * node：ネットワークに接続(せつぞく)されたコンピュータ機器など、ユーザーがそれを使って取引を開始するclientです。 
