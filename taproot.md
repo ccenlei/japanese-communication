@@ -17,7 +17,11 @@
 以上は簡単な業務の説明で、復雑な技術の実現には触れ(ふれ)ません。 
 
 ## Why use it?
+* btc chainより取引が速く、取引手数料も少ないです。
+* Taproot：アセットの発行契約がオンラインになると、より多くの投機(とうき)チャンスがあります。 
 
 ## How to use it?
+walletと呼びのアプリとchrome extensionがあります。例えば、Wallet of Satoshi。
 
 ## Taproot on Lighting 
+
